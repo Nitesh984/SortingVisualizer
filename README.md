@@ -9,4 +9,3 @@
 		<li>Quick Sort</li>
 </ul>
 
-<a></a>
