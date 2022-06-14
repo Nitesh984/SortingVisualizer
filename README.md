@@ -9,4 +9,4 @@
 		<li>Quick Sort</li>
 </ul>
 
-<a href="http://Nitesh984.github.io/SortingVisualizer">Demo</a>
+<a href="https://Nitesh984.github.io/SortingVisualizer">Demo</a>
