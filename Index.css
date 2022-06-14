@@ -16,7 +16,7 @@ html {
   }
 body
 {
-  background: url('F:\\SortingVisulizerProject\\img\\high-resolution-black-background-07-920x518.jpg') no-repeat center center fixed; 
+  background: url('img\\high-resolution-black-background-07-920x518.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
